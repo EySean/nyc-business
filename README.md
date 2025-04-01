@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--nyc-business--EySean.aem.page/
-- Live: https://main--nyc-business--EySean.aem.live/
+- Preview: https://main--nyc-business--eysean.aem.page/
+- Live: https://main--nyc-business--eysean.aem.live/
 
 ## Documentation
 
