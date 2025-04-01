@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--nyc-business--EySean.aem.page/
+- Live: https://main--nyc-business--EySean.aem.live/
 
 ## Documentation
 
